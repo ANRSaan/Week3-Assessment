@@ -37,6 +37,14 @@ img {
 	max-width: 300px;
 }
 
+.checks {
+	display: flex;
+}
+
+.checks > label {
+	margin: 10px;
+}
+
 .buttons {
 	height: 80px;
 	background-color: yellow;
